@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217128678706",
+    "project_id": "tomasino-df9b1",
+    "storage_bucket": "tomasino-df9b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217128678706:android:8e4b4d52e168553902132b",
+        "android_client_info": {
+          "package_name": "com.example.tomasino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217128678706-oiv1p9hgnpvbs7g6cvjq58jc0s01c9hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXKMtHONR8_cpP6wpFOFTH_b2ziIEoSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217128678706-oiv1p9hgnpvbs7g6cvjq58jc0s01c9hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
